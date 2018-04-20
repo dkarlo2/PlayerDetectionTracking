@@ -1,0 +1,8 @@
+﻿  show_paths.cpp
+d:\programiranje\visual c++\diplomski (remake)\diplomski (remake)\show_paths.cpp(59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Diplomski (remake).vcxproj -> D:\Programiranje\Visual C++\Diplomski (remake)\x64\Debug\Diplomski (remake).exe
+  Diplomski (remake).vcxproj -> D:\Programiranje\Visual C++\Diplomski (remake)\x64\Debug\Diplomski (remake).pdb (Partial PDB)
+  D:\opencv\build\x64\vc14\bin\opencv_ffmpeg310_64.dll
+  D:\opencv\build\x64\vc14\bin\opencv_world310.dll
+  D:\opencv\build\x64\vc14\bin\opencv_world310d.dll
+  3 File(s) copied
